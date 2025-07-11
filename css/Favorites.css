@@ -1,0 +1,39 @@
+.Favorites {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    min-height: 100vh;
+}
+
+.Favorites-container {
+    padding: 5rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.Favorites-container h1{
+    text-align: center;
+    font-size: 4rem;
+    color: rgba(151, 2, 151, 0.8);
+}
+
+.Favorites-container p{
+    text-align: center;
+    font-size: 1.9rem;
+    color: #8a7e8a;
+}
+.favorites {
+    overflow: hidden;
+}
+.Favorites h2{
+    position: absolute;
+    top: 12rem;
+    font-size: 4rem;
+    color: #D3CDCD;
+}

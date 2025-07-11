@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    width: 100%;
+    height: 5rem;
+    font-size: 2rem;
+    border: #121212 solid 1px;
+    font-weight: 400;
+    background-color: rgba(23, 22, 22, 0.91);
+    padding: 1rem;
+}
+
+.movie-name {
+    text-align: center;
+    color: #d3cdcd;
+    font-family: "Permanent Marker", cursive;
+}
