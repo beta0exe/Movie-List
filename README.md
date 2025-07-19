@@ -1,5 +1,6 @@
 
 This is only Ui (i havent done backend yet ) I will improve it abit more later but for now thats it 
+i have used react and react router on this one 
 
 Currently, two official plugins are available:
 
